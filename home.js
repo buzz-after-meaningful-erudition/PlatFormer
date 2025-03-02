@@ -5,13 +5,13 @@ class HomePage extends Phaser.Scene {
 
     create() {
         // Title
-        this.add.text(800, 300, 'Welcome to Boss Game', {
+        this.add.text(800, 300, 'Hello Everyone! Welcome To A Collection Hand Programmed Games That Totally do not Depict Aarav and Ruhann in many different ways', {
             fontSize: '84px',
             fill: '#fff'
         }).setOrigin(0.5);
 
         // Start button
-        const startButton = this.add.text(800, 500, 'Start Game', {
+        const startButton = this.add.text(800, 500, 'Start Platformer Game', {
             fontSize: '32px',
             fill: '#fff'
         }).setOrigin(0.5)
