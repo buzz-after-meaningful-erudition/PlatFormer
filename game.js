@@ -1441,7 +1441,7 @@ const config = {
             debug: false
         }
     },
-    scene: [StartScreen, BossGame]
+    scene: [HomePage, StartScreen, BossGame] // Add HomePage scene here
 };
 
 // Create the game instance
