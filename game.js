@@ -332,9 +332,9 @@ class BossGame extends Phaser.Scene {
         // Rogue is slower with axe, faster without
         if (this.playerClass === 'rogue') {
             if (this.activeAxe) {
-                baseSpeed *= 0.7; // 30% slower with axe
-            } else {
                 baseSpeed *= 1.2; // 20% faster without axe
+            } else {
+                baseSpeed *= 0.7; // 30% slower with axe
             }
         }
         const moveSpeed = this.hyperChargeActive ? baseSpeed * 1.5 : baseSpeed;
