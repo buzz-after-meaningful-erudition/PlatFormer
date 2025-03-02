@@ -1,16 +1,16 @@
-title: Test Game
-description: "Test Game for Gametest :D"
-owner_name: Zhengjie Xu
+title: Platformer
+description: "small platformer game made for fun :D"
+owner_name: Advait Deshpande, Zhengjie Xu
 github_username: xinjiav3
-github_repo: "gametest" 
-baseurl: "/gametest"
+github_repo: "PlatFormer" 
+baseurl: "/PlatFormer"
 future: true
 remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github, user_url: "https://github.com/SpekTral05"}
-    - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
+    - { platform: github, user_url: "https://github.com/buzz-after-meaningful-erudition"}
+    - { platform: x, user_url: "https://x.com/lianghenhao/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 # remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
