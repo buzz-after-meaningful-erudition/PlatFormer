@@ -1,2 +1,3 @@
-# gametest
-test rpg game for csse 1
+# Platformer
+
+Simple platformer game written in JavaScript that was a failed project for mort :/
